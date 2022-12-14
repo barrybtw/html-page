@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/11/931/523/GettyImages-1244880517.jpg?ve=1&tl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
